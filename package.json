@@ -1,0 +1,25 @@
+{
+  "name": "project-333",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShkvarlaLidiia/build.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "ShkvarlaLidiia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShkvarlaLidiia/build/issues"
+  },
+  "homepage": "https://github.com/ShkvarlaLidiia/build#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
